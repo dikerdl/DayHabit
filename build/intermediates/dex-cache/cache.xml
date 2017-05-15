@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_d50ea6ab37057965ec3868c393c790ada8fa9e8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_e517748e00c52c46c025cdca58eaf5865d1a05e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao\3.2.0\e70040568b2929b8e5869ad1ffca8e4386dc53bc\greendao-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70040568b2929b8e5869ad1ffca8e4386dc53bc">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-3.2.0_b818ac310e2286c0fe70f0befba693c0f3f5ac1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\ShareSDK-Wechat-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c77dd3832635149e694df173896f81e1e2d07aa">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.8.3_d33e7136566491235551e837d40a25c0c0f35ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.7.0_b5bb2de596cb8d28e4995af36ce6b54080c8f24d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\MobTools-2017.0412.1554.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff1c0540ed5607fa34269a7adc63679e4fcfb714">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2017.0412.1554_f30e08f12b0045d8096e8a0887e93ac02d5b3bdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_5004849b8b7b879903af65662ad9e61eb5b02359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_9ab53fa7376998fd13407c3a33789d9ea2ad4958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao-api\3.2.0\c6d610abe1d75d758431c9234917a349abc0a0ac\greendao-api-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6d610abe1d75d758431c9234917a349abc0a0ac">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-api-3.2.0_ceeabc4e540cb487d45553835dc82148045f0e47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_2bb80ae5c916820e073cf49aa0d38142971251a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_b89e823155776eb549a1e74a5dd4c2dbba765c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\ShareSDK-ShortMessage-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd9139e82701d0a315e45aacf28ae4f6ac117ecb">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-ShortMessage-2.8.3_f77d272b725fe887d9c674b1a2c5ef636290de5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\ShareSDK-Wechat-Moments-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="415c1cb912f11e414e6beaf1e59090c154f6da8d">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.8.3_e0dad57575e11850db7eba20c17bfd9b45aa7ef9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.3.1_eef742de9e287f93418727c7747e9d92af34dc9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\SMSSDKGUI-2.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c606d386b68967b1b7172bd82c7e782c6e7a1d9">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-SMSSDKGUI-2.1.4_c31ba0f9b958491959211eddde07a2723339a58e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_327526ffef5ab16225a0b693b0a6748f7b338237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\MobCommons-2017.0412.1554.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f93319b520c12b41265a55d1ccacde97b9f18a9c">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2017.0412.1554_1e0bcb60e1a49d46acd6e6ee9e04309ab2387d2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\Bmob_Push_V1.0.0beta_20160627.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e1d7fc0e38d0852f61afea9a6da92abb948bf21">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\Bmob_Push_V1.0.0beta_20160627_e66afed4c5c785858f7c3a3d42ab6bf583937ab9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e615acccb5761d5ff38a95bc8e9454dcc39195a">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c8c8cad44c8f45a7567e3d246bfc472563ab8961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_b0cc02df97c0aa77cd4a6d589f0c6ffa886cb699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\rxjava-1.1.6_0529cdb67ecef003e421ccf0d423106f830ccd4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_00b1d9c3bcb9dca81c201a0d9e6718bb7ea61211\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\rxandroid-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\rxandroid-1.2.0_2ea9c06c207ee8a4b0e5845a23fe9d7bef47bf6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_b50f6cd5d33b1c4a8e39b93393050532d7a441ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5746781b554af4b50e55d64a76432f7f35557320">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b3ef64fb771dccdfe7bfabfb5a3f0bd3e9fe9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_e159adf58ba5b8ed02f734c16bf17598830b3a29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_66f845960a5304dcfdad1937707c1eb7f63a4f3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\ShareSDK-Wechat-Core-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d3d26aac0c67984e4612539017f7a5f4bd6507">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.8.3_0f3d2165018feb55587bda4fd85fbc0b5e63499e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_4b2e59c7003328cde8a19c3febb4b8ab84b728d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.6.2_91750160611fd791c6a235ea0755e85a7db3d34e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\SMSSDK-2.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29de8afd6edd30f246bb7de991037875d0787ec6">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-SMSSDK-2.1.4_9f26d0ce746e9b38fb2016926018c1adc2158944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\ShareSDK-QQ-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56808c93d53310bb7e5d79a1a5709dfd2c11d532">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.8.3_80178b5df6311c206b667349c26a1fd45f39df70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\ShareSDK-SinaWeibo-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23b18b312360535b71c0702b842da81fbadcdba3">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.8.3_8b281471f8cef1db7a3912610f318298c243e60d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\BmobSDK_3.5.5_20170420.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5bc92744cfd1f0652327a1b1399862982b5939e">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSDK_3.5.5_20170420_df2e6acde7e8bf5d4785e3d88de26e3fb1c4bd29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_4c21646197bf3a861fdcb42e9e6a02dda3e95cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\.gradle\caches\modules-2\files-2.1\com.amap.api\location\3.4.0\fa2675ac2111742d045390a97dd39ea48d957b87\location-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa2675ac2111742d045390a97dd39ea48d957b87">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\10\location-3.4.0_ea9e94a6816b661ccc130c7dfe4d674f30dc17b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\libs\ShareSDK-Core-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da4b0def0be4d4be0d3460638e087d01f60347c0">
+        <dex dex="C:\Users\hasee\Desktop\DayHabit2\DayHabit\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.8.3_e3ee4b3f762322d569ca855fa3a4f7ce3f5eefd0\classes.dex" />
+    </item>
+
+</items>

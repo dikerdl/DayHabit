@@ -1,0 +1,40 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorGray"
+   >
+
+    <com.jarimport.dl.dayhabit.view.MyToolbar
+        android:id="@+id/mToolbar3"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        >
+
+    </com.jarimport.dl.dayhabit.view.MyToolbar>
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher"
+            android:layout_gravity="center_vertical"
+            android:scaleType="centerCrop"/>
+        <TextView
+            android:id="@+id/mshowPushInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="系统消息：你好！欢迎使用天天习惯！"
+           android:layout_gravity="center_vertical"
+            android:textColor="@color/colorBlue"/>
+
+    </LinearLayout>
+    <View
+        android:layout_marginTop="110dp"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/colorGreen" />
+</FrameLayout>

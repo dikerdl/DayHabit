@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <com.jarimport.dl.dayhabit.view.BanViewPager
+        android:id="@+id/mViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/mGuideBottom"
+        android:background="#fda"
+        android:isScrollContainer="true"
+      >
+        <!--自定义就可以解决TabLayout下面的ViewPager的滑动，但是细心的同学，依然发现有滑动出现的左右移动bug！！！并没有全部固定ViewPager，看了xml布局文件，细心的同学会发现，我在自定义的Viewpager控件中加了
+
+        android:isScrollContainer="true"-->
+    </com.jarimport.dl.dayhabit.view.BanViewPager>
+
+
+    <RadioGroup
+        android:id="@+id/mGuideBottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorWhite"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/mRadio1"
+            style="@style/RadioStyle"
+            android:checked="true"
+            android:drawableTop="@drawable/drawable_rbtn1"
+            android:text="习惯"
+            />
+
+        <RadioButton
+            android:id="@+id/mRadio2"
+            style="@style/RadioStyle"
+            android:drawableTop="@drawable/drawable_rbtn2"
+            android:text="信息"
+           />
+
+        <RadioButton
+            android:id="@+id/mRadio3"
+            style="@style/RadioStyle"
+            android:drawableTop="@drawable/drawable_rbtn3"
+            android:text="社交"
+            />
+
+        <RadioButton
+            android:id="@+id/mRadio4"
+            style="@style/RadioStyle"
+            android:drawableTop="@drawable/drawable_rbtn4"
+            android:text="我"
+            />
+    </RadioGroup>
+
+</RelativeLayout>

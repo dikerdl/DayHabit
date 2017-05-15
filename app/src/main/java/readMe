@@ -1,0 +1,28 @@
+1. 整体框架的搭建
+2. MVP模式
+3. Mob短信验证，SharedSDK社会化分享
+4. Bmob后台云服务(数据存储，文件存储，社交)
+
+5.Materia Design(ToolBar+RecyclerView+悬浮按钮)
+6.RadioGroup+FrameLayout+ViewPager+Tablayout
+7.屏幕适配（参考慕课网或使用AutoLayout）
+8.工具类集合jar包可以使用Android Common 或Common Utils
+
+
+
+截图分享（手机上浏览器主页书签中代码）
+
+第三方SDK和开源项目：
+
+    Mob短信验证，BMob作为后端云服务器，ShareSDK实现第三方登录和分享
+
+
+
+
+
+
+9.....商业化推广，接入广告平台SDK
+
+-----------------
+注意：
+    性能优化，apk体积

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg1"
+    >
+<com.jarimport.dl.dayhabit.view.MyToolbar
+    android:id="@+id/regist_mTbar"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+</com.jarimport.dl.dayhabit.view.MyToolbar>
+    <LinearLayout
+        android:id="@+id/mLoginGraphic"
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        >
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/user"
+            android:clickable="true"
+            android:onClick="setUserPort"/>
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/username"/>
+            <EditText
+                android:id="@+id/regist_mUserPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="手机号"
+                android:inputType="phone"
+                android:maxLength="11"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/pwd"/>
+            <EditText
+                android:id="@+id/regist_mUserPwd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="密码"
+                android:onClick="loginFast"
+                android:inputType="textPassword"
+                android:maxLength="8"
+                />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_below="@id/mLoginGraphic"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+
+        android:gravity="center_vertical">
+        <Button
+            android:id="@+id/mLogin_btn"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="注册"
+            android:layout_gravity="start"
+            android:onClick="registByPhone"
+            android:background="@color/colorBlue"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
